@@ -3,7 +3,7 @@
   <p >
   <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  /></a>
   Siga-me no instagram https://www.instagram.com/gabriel.dasilva11/
- 
+  <img src= "https://github-readme-stats.vercel.app/api gabrielsillva = anuraghazra"/>
   </p>
 
 <p align = "left">
