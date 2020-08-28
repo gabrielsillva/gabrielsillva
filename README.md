@@ -4,7 +4,7 @@
 
 
  
- <img src = "https://logodownload.org/wp-content/uploads/2017/04/instagram-logo.png" alt= "instagram width = "20" height = "20"/> Siga me no instagram **https://www.instagram.com/gabriel.dasilva11/**
+:computer: Siga me no instagram **https://www.instagram.com/gabriel.dasilva11/**
 
 
 
