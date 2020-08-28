@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá dev , Gabriel Silva 🤘 </h1>
-<! <h3 align = "center"> Estudante de informática aprendendo Desenvolvimento Web </h3>
+< ! <h3 align = "center"> Estudante de informática aprendendo Desenvolvimento Web </h3>
  
  <p align = "left">
  <p align = "left">
