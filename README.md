@@ -4,6 +4,22 @@
   <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  /></a>
   Siga-me no instagram https://www.instagram.com/gabriel.dasilva11/
   <img src= "https://github-readme-stats.vercel.app/api gabrielsillva = anuraghazra"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=radical" alt = "Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
+  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
+  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=radical" />
+</a>    
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
+  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=radical" />
+</a>
   </p>
 
 <p align = "left">
