@@ -9,15 +9,6 @@
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsillva&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/gabrielsillva/github-readme-stats">
-  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=gabrielsillva&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/gabrielsillva/anuraghazra.github.io">
-  <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/pin/?username=gabrielsillva&repo=gabrielsillva.github.io&theme=radical" />
-</a>
-  </p>
 
 <p align = "left">
 
