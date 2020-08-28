@@ -1,6 +1,8 @@
 <h1 align = "center"> Olá dev , Gabriel Silva 🤘 </h1>
 <h3 align = "center"> Estudante de informática aprendendo Desenvolvimento Web </h3>
-  <p>
+ 
+ <p align = "left">
+  
   <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  /></a>
   Siga-me no instagram https://www.instagram.com/gabriel.dasilva11/
 </a>
