@@ -4,7 +4,7 @@
 
 
  
- <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" gabriel "height =" 20 "largura =" 20 "/>  
+ <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg "alt =" gabrielsillva "height =" 20 "largura =" 20 "/> </a>
  Siga-me no instagram **https://www.instagram.com/gabriel.dasilva11/**
 
 
