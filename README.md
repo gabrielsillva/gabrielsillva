@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá dev , Gabriel Silva 🤘 </h1>
 <h3 align = "center"> Estudante de informática aprendendo Desenvolvimento Web </h3>
 
-💻  Siga-me no instagram **https://www.instagram.com/gabriel.dasilva11/**
+  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  />  Siga-me no instagram **https://www.instagram.com/gabriel.dasilva11/**
 
 
 
@@ -11,6 +11,6 @@
 <img src = "https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt = "html5" width = "20" height = "20" />
 <img src = "https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt = "python" width = "20" height = "20" />
  <img src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt = "javascript" width = "20" height = "20" />
-  <img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  />
+
 
 </p>
