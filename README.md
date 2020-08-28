@@ -3,9 +3,9 @@
   <p align = "left">
   <img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  />  
   Siga-me no instagram **https://www.instagram.com/gabriel.dasilva11/**
+  </p>
 
-
-
+<p align = "left">
 
   <img src = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt = "react" width = "20" height = "20" />
 <img src = "https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt = "css3" width = "20" height = "20" />
