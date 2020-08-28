@@ -10,7 +10,7 @@
   <! - Altere o `github-readme-stats.anuraghazra1.vercel.app` para` github-readme-stats.vercel.app` ->
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsillva&layout=compact&theme=radical" />
 </a>
-</p>
+
 
 
 <p align = "left">
@@ -22,4 +22,5 @@
  <img src = "https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt = "javascript" width = "20" height = "20" />
 
 
+</p>
 </p>
