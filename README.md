@@ -7,7 +7,7 @@
    Siga-me no instagram:  https://www.instagram.com/gabriel.dasilva11/
 </p>
 <a href="https://github.com/gabrielsillva/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielsillva&show_icons=true" alt="gabrielsillva"/> 
+  <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrielsillva&show_icons=true&include_all_commits=true&theme=radical" alt = "gabrielsillva" />
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsillva&layout=compact&theme=radical" />
 </a>
 
