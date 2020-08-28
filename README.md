@@ -3,7 +3,8 @@
  
  <p align = "left">
   
-  <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"  /></a>
+  <a href="https://www.instagram.com/gabriel.dasilva11/" target="blank"><img src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1 /icons/instagram.svg" alt= "instagram" width "20" height="20"/>
+</a>
   Siga-me no instagram https://www.instagram.com/gabriel.dasilva11/
 </a>
 <a href="https://github.com/gabrielsillva/github-readme-stats">
@@ -23,4 +24,4 @@
 
 
 </p>
-</p>
+
