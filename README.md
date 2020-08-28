@@ -3,9 +3,9 @@
 
 
 
-- 💬 Siga me no instagram **https://www.instagram.com/gabriel.dasilva11/**
+ :trophy:  Siga me no instagram **https://www.instagram.com/gabriel.dasilva11/**
 
-- 📫 Como entrar em contato comigo 
+
 
 <p align = "left">
   <img src = "https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt = "react" width = "20" height = "20" />
