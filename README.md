@@ -12,7 +12,7 @@
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsillva&layout=compact&theme=radical" />
 </a>
 
-
+</p>
 
 <p align = "left">
 
