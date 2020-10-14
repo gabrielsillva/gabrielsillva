@@ -8,7 +8,7 @@
 </p>
 <a href="https://github.com/gabrielsillva/github-readme-stats">
   <img align = "center" src = "https://github-readme-stats.anuraghazra1.vercel.app/api?username=gabrielsillva&show_icons=true alt = "gabrielsillva" />
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsillva&layout=compact" />
+  
 </a>
 
 </p>
